@@ -1,0 +1,12 @@
+<b>LOCATION FINDER</b>
+
+
+A Ruby on Rails application that takes the name of a location from the User and gives the co-ordinates of the location.
+
+Follow the steps below to use the application:
+
+1. Make sure Ruby on Rails is installed on your computer.
+2. Through terminal/cmd, navigate to the project's folder and type <b>bundle install</b>.
+3. Next run <b>rake db:migrate</b>.
+4. Type <b>rails server</b>.
+5. On your web browser (preferably Chrome or FireFox), type localhost:3000 and hit enter.
